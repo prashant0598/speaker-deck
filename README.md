@@ -1,5 +1,19 @@
 # speaker-deck
-A list of all my talks' slides
+A list of all my talks' slides and Presentations
+
+### 2020
+
+#### 11th May
+Poster: [Centrality Measures to Classify Event and Non-event Synchrony](https://us.pycon.org/2020/schedule/presentation/252/)
+  <br>Event: [PyCon US](https://us.pycon.org/2020/)
+  <br>Community: [PSF](https://www.python.org/psf-landing/)
+  <br>Venue: ~~Pittsburgh, PA, USA~~ Online
+
+#### 11th May
+Poster: [Video Surveillance System for Female Security using Keras](https://us.pycon.org/2020/schedule/presentation/186/)
+  <br>Event: [PyCon US](https://us.pycon.org/2020/)
+  <br>Community: [PSF](https://www.python.org/psf-landing/)
+  <br>Venue: ~~Pittsburgh, PA, USA~~ Online
 
 ### 2019
 
